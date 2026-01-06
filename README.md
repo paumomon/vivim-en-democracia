@@ -12,118 +12,171 @@ _class:
  - invert
 -->
 
-# Deploy Marp to GitHub Pages
+# DEMOCRÀCIA
 
-Presentations to Webpages: Instantly!
+---
 
-## What?
+# Els principis de la democràcia
 
-[Marp](https://marp.app/) lets you create HTML slides from markdown (like this!).
+- Significa govern del poble, un sistema de govern on les decisions no les preu una sola persona sinó tota la  ciutadania a traves del seus representants 
 
-This presentation is both a [website](https://alexsci.com/marp-to-pages) and a [README.md](https://github.com/ralexander-phi/marp-to-pages/blob/main/README.md).
+---
 
-## Why?
+# PRINCIPIS 
 
-Treat your presentation the same way you treat code.
+- Igualtat-totes les persones son iguals i tenen els mateixos drets sense fer distinció de sexe, religió, opinió política 
 
-- Use git to track changes
-- Pull requests to collaborate
-- Deploy automatically
-- See a problem? Open an issue!
+- Valor de les lleis. Les lleis protegeixen de manera igual a totes les persones i estan obligades a complir-les. 
 
-## Setup
+- Sobirania nacional- la ciutadania te el poder i elegeix als seus representants. 
 
-Want to create your own?
+- Pluralitat Política es respectar les diferents idees polítiques 
 
-First, create a new repo [from the template repo](https://github.com/ralexander-phi/marp-to-pages).
+- Participació Política- .La ciutadania tria a qui bol que la representa. 
 
-![](img/use-template.png)
+- Control del poder- les governs estan obligats a rebre comptes. 
 
-## Configure GitHub Pages
+---
 
-Open your new repo and [setup publishing](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
+# DIVISIÓ DE PODERS 
 
-You'll typically use `gh-pages` as the deploy branch.
+Per a evitar que una  persona o acumule tot el poder i n’avuse, el poder es divideix en tres poder independents entre si.
 
-## Review Build
+- Legislatiu-Aprova les lleis i controla el govern. A Espanya el els cords generals que representen el poble espanyol. 
 
-Click on Actions tab and see if the build succeeded (it may take some time).
+- Judicial-Responsable de que  les lleis es compleixen. A Espanya l'exerceixen els jutjats i els tribunals. 
 
-![](img/click-actions.png)
+- Executiu-Encarregat de prendre les decisions polítiques  i econòmiques. A Espanya l'exerceix e l govern. 
 
-You should now see the generated files in the `gh-pages` branch.
+--- 
 
-## View webpage
+# PARTIT POLÍTIC 
 
-Open your deployed webpage to see the content.
+- Agrupació de  persones amb les mateixes idees per a governar un país. 
 
-Out of the box you should see `README.md` as `/index.html` and `/README.pdf`. Slides under `docs/` are also converted.
+- Es presenta a les eleccions amb  un programa electoral que explica  les seues idees per a  millorar la vida de les persones. 
+---
+# CONTITUCIÓ 
 
-## Running locally
+- El 6 de desembre en 1978. 
 
-Locally you'll run commands like:
+- Document on es reconeixen valors com la llibertat, justícia, igualtat, el respectar la diversitat. 
 
-```
-$ marp README.md -o build/README.pdf
-```
+- Es va aprovar per  referèndum.(El poble la va votar i aprovar)per això Espanya es un estat democràtic: La sobirania nacional recau en el poble i te  com a forma política la monarquia parlamentaria. 
 
-or
+---
 
-```
-$ npx @marp-team/marp-cli@latest README.md -o build/README.pdf
-```
+# CONTITUCIÓ
 
-## As a workflow step
+## ASPECTES QUE RECULL
 
-The workflow runs an equivalent step:
+- Drets i deures
+- Funcions de institució de l’estat
+- L’organització territorial de Espanya en comunitats autònomes.                                                                                                                       -   
+---
+# PARTIPACIÓ CIUTADANA  
 
-```
-- name: Marp Build (README.pdf)
-  uses: docker://marpteam/marp-cli:v1.7.0
-  with:
-    args: README.md -o build/README.pdf
-  env:
-    MARP_USER: root:root
-```
+ - Totes les persones tenim drets  que s'han de respectar i deures que em de complir i que es basen en la declaració universal de drets humans 
 
-Note the `args` match the previous slide.
+- Drets: A l’educació, expressar les nostres idees, etc. 
 
-## Customizing the build
+- Deures:  A respectar les lleis, pagar impostos, etc. 
 
-Anything in the `build/` folder will be deployed to GitHub Pages.
+- Respectem les minories: Son  grups de persones que tenen diferent cultura, llengua, creencies. 
 
-You can copy extra files or run further processing steps using other tools.
+- Paguem impostos: per a ajudar a pagar els serveis publics,qui guanya més paga més. 
+---
 
-## Learn more about Marp
+#  PARTIPACIÓ CIUTADANA 
+## En la vida política 
 
-This is a good time to learn more about Marp. Here's some resources:
+- Votant en les eleccions: A Espanya el vot es lliure, secret i universal. 
 
-- [CommonMark](https://commonmark.org/)
-- [Cheat Sheet](https://commonmark.org/help/)
-- [Themes](https://github.com/marp-team/marp-core/tree/master/themes)
-- [CSS Themes](https://marpit.marp.app/theme-css)
-- [Directives](https://marpit.marp.app/directives)
-- [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+- Presentant propostes: Tots podem presentar a les autoritats iniciatives o projectes per a millorar el nostre entorn. 
 
-## Example Sites
+- Col·laborar en associacions: Per a compartir  i defensar els nostres interessos, també podem realitzar manifestacions pacífiques. 
 
-Known sites using this action are:
+---
 
-- [University of Illinois at Urbana-Champaign's CS 199 Even More Practice](https://cs199emp.netlify.app/) [(code)](https://github.com/harsh183/emp-125)
-- [Exploring agent based models](https://roiarthurb.github.io/Talk-UMMISCO_06-07-2020/) [(code)](https://github.com/RoiArthurB/Talk-UMMISCO_06-07-2020)
+# COM ES GOVERNA ESPANYA 
 
-Send a [pull request](https://github.com/ralexander-phi/marp-to-pages) to get your site added.
+Espanya es una monarquia parlamentaria. 
 
-## Publish your slides
+Funcions de l ‘estat: 
 
-When you are ready to share your presentation, commit or merge to `main` and your content on GitHub Pages will automatically update.
+- Poder legislatiu  
 
-# 🎉
-<!--
-_class:
- - lead
- - invert
--->
-### Hooray!
+- Poder executiu 
 
+- Poder judicial 
+ 
+---
+# Com es governa Espanya
+## Principals institucions 
 
+- Cap de l’estat: recau en un rei o una reina (monarquia parlamentaria)  que  no governa, representa Espanya i es el cap del exèrcit. La monarquia es hereditària. 
+- Govern de Espanya: Exerceix el poder executiu dirigir la política interior i exterior d’Espanya, format per: president o presidenta, elegit pel congres de diputats i coordina les activitats del govern, ministres que col·laboren amb el president. 
+- Les cords generals,  exerceixen el poder legislatiu. Formades pel congres de diputats i el senat, les cord generals exerceixen el poder legislatiu i  elaboren i aproven les lleis. 
+- Els tribunals de justícia-exerceixen el poder judicial i s'encarreguen de que compliquen les lleis .El més important es el tribunal suprem. 
+
+ 
+---
+ 
+
+# ORGATZACIÓ DEL TERRITORI D’ESPANYA
+
+## Municipis 
+
+- Més menuda. 
+
+- Cada  municipi te un ajuntament. 
+
+- Majors de 18 anys. 
+
+- Presten serveix als seus habitants. 
+
+---
+
+# ORGATZACIÓ DEL TERRITORI D’ESPANYA
+
+## Províncies- 
+
+- Formada per diversos municipis hi ha 50 províncies. 
+
+- L’exerceix la diputació provincial. 
+
+---
+
+# ORGATZACIÓ DEL TERRITORI D’ESPANYA
+
+## Comunitats autònomes- 
+
+- Hi ha desset comunitats i dues ciutats autonòmiques 
+
+- Té estatut d’autonomia 
+
+- Majors de 18 anys escullen en les eleccions autònomes. 
+
+- Institucions/parlament autonòmic, govern, president o presidenta. 
+
+ ---
+
+# SOM CIUTADANES I CIUTADANS DEL MÓN 
+
+## Espanya i les organitzacions internacionals. 
+
+- Espanya forma part de la comunitat internacional integrada per 193 països, i forma part de: L’Organització de les Nacions Unides, L’Organització per a la Cooperació i el Desenvolupament Econòmics, El Consell d’Europa, L’Organització del Tractat de l'Atlàntic Nord, La Unió Europea. 
+
+---
+
+# SOM CIUTADANES I CIUTADANS DEL MÓN 
+
+## Espanya a la Unió  Europea- 
+
+- Espanya va ingressar a la Unió Europea. 
+
+-En el pla econòmic, perquè vam rebre fons  que van permetre el desenvolupament de les zones menys prosperes i la modernització  de les infraestructures. 
+
+-En el pla social, perquè tenim la ciutadania de la UE. Alço ens permet viatjar, estudiar i trevagar en qualsevol dels estats membres. A més, 19 països de la UE compartim una moneda única l’euro.  
+
+ 
