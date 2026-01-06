@@ -1,14 +1,13 @@
 ---
 marp: true
 theme: gaia
-class: invert
 ---
 
 <!--
+transition: in-out
 _class:
  - lead
- - invert
--->
+--> 
 
 # DEMOCRÀCIA
 
@@ -57,7 +56,7 @@ Per a evitar que una  persona o acumule tot el poder i n’avuse, el poder es di
 
 --- 
 
-## CONTITUCIÓ 
+## CONSTITUCIÓ  
 
 - El 6 de desembre en 1978. 
 
@@ -67,7 +66,7 @@ Per a evitar que una  persona o acumule tot el poder i n’avuse, el poder es di
 
 --- 
 
-## CONTITUCIÓ
+## CONSTITUCIÓ
 
 ### ASPECTES QUE RECULL
 
@@ -77,7 +76,7 @@ Per a evitar que una  persona o acumule tot el poder i n’avuse, el poder es di
 
 --- 
                                                
-## PARTIPACIÓ CIUTADANA  
+## PARTICIPACIÓ CIUTADANA    
 
  - Totes les persones tenim drets  que s'han de respectar i deures que em de complir i que es basen en la declaració universal de drets humans 
 
@@ -91,7 +90,7 @@ Per a evitar que una  persona o acumule tot el poder i n’avuse, el poder es di
 
 --- 
 
-##  PARTIPACIÓ CIUTADANA 
+##   PARTICIPACIÓ CIUTADANA  
 ### En la vida política 
 
 - Votant en les eleccions: A Espanya el vot es lliure, secret i universal. 
@@ -132,7 +131,7 @@ Funcions de l ‘estat:
 
 --- 
 
-## ORGATZACIÓ DEL TERRITORI D’ESPANYA
+## ORGANITZACIO DEL TERRITORI D’ESPANYA
 
 ### Municipis 
 
@@ -146,7 +145,7 @@ Funcions de l ‘estat:
 
 --- 
 
-## ORGATZACIÓ DEL TERRITORI D’ESPANYA
+## ORGANITZACIO DEL TERRITORI D’ESPANYA
 
 ### Províncies- 
 
@@ -156,7 +155,7 @@ Funcions de l ‘estat:
 
 --- 
 
-## ORGATZACIÓ DEL TERRITORI D’ESPANYA
+## ORGANITZACIO DEL TERRITORI D’ESPANYA
 
 ### Comunitats autònomes- 
 
@@ -190,6 +189,6 @@ Funcions de l ‘estat:
  
 ---
 
-# Gràcies
+# ADEU 
 
  
