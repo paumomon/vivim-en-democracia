@@ -113,7 +113,7 @@ Funcions de l ‘estat:
 --- 
  
 ## Com es governa Espanya
-### Principals institucions 
+### Principals institucions (1)
 
 - **Cap de l’estat**: recau en un rei o una reina (monarquia parlamentaria)  que no governa. Representa Espanya i es el cap del exèrcit. La monarquia es hereditària. 
 - **Govern de Espanya**: Exerceix el poder executiu dirigir la política interior i exterior d’Espanya, format per: president o presidenta, elegit pel congres de diputats i coordina les activitats del govern, ministres que col·laboren amb el president. 
@@ -121,7 +121,7 @@ Funcions de l ‘estat:
 --- 
  
 ## Com es governa Espanya
-### Principals institucions 
+### Principals institucions (2)
 
 - **Les corts generals** exerceixen el poder legislatiu. Formades pel congres de diputats i el senat, les cord generals exerceixen el poder legislatiu i  elaboren i aproven les lleis. 
 - **Els tribunals de justícia** exerceixen el poder judicial i s'encarreguen de que compliquen les lleis. El més important es el tribunal suprem. 
